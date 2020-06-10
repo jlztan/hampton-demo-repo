@@ -1,7 +1,27 @@
-## Hampton Chen's demo repository
+# 使用 PDF.js 预览 PDF 文件的 一个 demo
+- 在 [hampton-demo-repo 的 PDF.js demo](https://github.com/Hanpeng-Chen/hampton-demo-repo/blob/master/example-project/src/pages/pdfjs-demo.vue) 基础上进行扩展
 
-## 欢迎大家关注我的公众号『代码视界』，扫描下方二维码（或微信搜索：代码视界），即可关注。
+## Project setup
+```
+npm install
+```
 
->主要分享大数据、人工智能、前端相关技术干货，但不限于上述领域，当然还有不定期的优质学习资料和福利分享。
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-![](/assets/images/wxgzh_qrcode.png)
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
